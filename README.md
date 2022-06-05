@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on: will update when valid.
 - 📫 How to reach me: try through someone I know, else: LI.
 
-- My GA profile: https://git.generalassemb.ly/divirobo, contributions activity: https://bit.ly/3N6Yicn (not updated super regularly).
+- Most current contributions go in my GA enterprise profile: https://git.generalassemb.ly/divirobo, activity screenshot: https://bit.ly/3N6Yicn (not updated super regularly).
 
 <!---
 Dumblevor/Dumblevor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
