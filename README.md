@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on: will update when valid.
 - 📫 How to reach me: try through someone I know, else: LI.
 
-- Most current contributions go in my GA enterprise profile: https://git.generalassemb.ly/divirobo, activity screenshot: https://bit.ly/3N6Yicn (not updated super regularly).
+- Most current contributions go in my GA enterprise profile.
+- #1 Vanilla JavaScript Space Invaders game: https://dumblevor.github.io/spce_inv1/
+- #2 APIs + React GA app: random characters from Rick & Morty API: https://rick-and-morty-randomizer.netlify.app/
 
 <!---
 Dumblevor/Dumblevor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
