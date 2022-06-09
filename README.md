@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dumblevor
-- 👀 I’m interested in Software, Data, kitesurf, among others.
-- 🌱 I’m currently learning React & APIs.
-- 💞️ I’m looking to collaborate on: will update when valid.
+- 🤔 I’m interested in Software, Data, kitesurf, among others.
+- ⌨️ I’m currently learning React & APIs.
+- 🤝 I’m looking to collaborate on: will update when valid.
 - 📫 How to reach me: try through someone I know, else: LI.
 
 - Most current contributions go in my GA enterprise profile.
