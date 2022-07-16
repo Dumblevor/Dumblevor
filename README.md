@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dumblevor
-- 🤔 I’m interested in Software, Data, kitesurf, among others.
-- ⌨️ I’m currently learning React & APIs.
+- 🤔 I’m interested in software, data, kitesurf and economics among other topics. 
+- ⌨️ I’m currently learning Flask, SQL, Python.  
 
 Latest projects:
 - #4 Under constriction.
