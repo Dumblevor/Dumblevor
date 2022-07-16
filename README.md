@@ -3,7 +3,7 @@
 - ⌨️ I’m currently learning Flask, SQL, Python.  
 
 Latest projects:
-- #4 Under constriction.
+- #4 ETA mid-August
 - #3 Social network with private job listings for devs: https://hackertrees.netlify.app (registration needed to access the site).
 - #2 APIs + React GA app: random characters from Rick & Morty API: https://rick-and-morty-randomizer.netlify.app/
 - #1 Vanilla JavaScript Space Invaders game: https://dumblevor.github.io/spce_inv1/
