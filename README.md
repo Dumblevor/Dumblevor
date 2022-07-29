@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dumblevor
+- 👋 Hi, I’m Dimitar [@Dumblevor]
 - 🤔 I’m interested in software, data, kitesurf and economics among other topics. 
 - ⌨️ I’m currently learning Flask, SQL, Python.  
 
