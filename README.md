@@ -3,7 +3,6 @@
 - ⌨️ I’m currently learning Python & React.
 
 Latest projects:
-- #5 ETA 30 Nov
 - #4 App store inspired by appsumo.com: https://firesell2.netlify.app
 - #3 Social network with private job listings for devs: https://hackertrees.netlify.app (registration needed to access full site).
 - #2 APIs + React GA app: random characters from Rick & Morty API: https://rick-and-morty-randomizer.netlify.app/
