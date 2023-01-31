@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dimitar [@Dumblevor]
 - 🤔 I’m interested in software, data, kitesurf and economics among others. 
-- ⌨️ I’m currently learning OOP & CSS Grid.
+- ⌨️ I’m currently learning CSS Grid & OOP.
 
 Latest projects:
 - #4 App store inspired by appsumo.com: https://firesell2.netlify.app
