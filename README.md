@@ -2,6 +2,8 @@
 - 🤔 I’m interested in software, data, kitesurf and economics among others. 
 - ⌨️ I’m currently learning CSS Grid & OOP.
 
+Portfolio: https://dimitarv.me
+
 Projects part of my GA training:
 - #4 App store inspired by appsumo.com: https://firesell2.netlify.app
 - #3 Social network with private job listings for devs: https://hackertrees.netlify.app (registration needed to access full site).
