@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dimitar [@Dumblevor]
-- 🤔 I’m interested in software, AI, kitesurf and economics among others. 
+- 🤔 I’m interested in software, data, AI, kitesurf and economics among others. 
 - ⌨️ I’m currently learning building https://aipetphotos.com
 
 
